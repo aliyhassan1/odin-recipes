@@ -1,0 +1,40 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+
+}
+h1{
+   color: rgb(225, 118, 17); 
+   font-size: 28px;
+   background-color: azure;
+   text-align: center;
+   text-decoration: wavy;
+}
+
+h1.recipe{
+    font-size: 28px;
+}
+
+ul, .recipe{
+    color: brown;
+    background-color: beige;
+}
+
+img{
+    width: 200px;
+    height:auto;
+    align-self: center;
+    text-align:right;
+}
+
+.list li{
+    background-color: rgb(237, 229, 229);
+    color:black
+    
+}
+
+h2{
+    text-shadow: 0cqb;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
